@@ -2,7 +2,7 @@
 --- MOD_NAME: BalatroDarkMode
 --- MOD_ID: BalatroDarkMode
 --- MOD_AUTHOR: [Carroton]
---- MOD_DESCRIPTION: Dark Mode for Balatro (Enable high contrast to take effect)
+--- MOD_DESCRIPTION: Dark Mode for Balatro
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
