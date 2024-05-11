@@ -8,6 +8,7 @@
 ------------MOD CODE -------------------------
 
 function SMODS.INIT.Colors()
+
     G.C.SUITS = {
         Hearts = HEX('f20000'),
         Diamonds = HEX('cb0b83'),
@@ -29,6 +30,13 @@ function SMODS.INIT.Colors()
         contrast = 1
     }
 
+    G.C.BLIND = {
+        Small = HEX("477863"),
+        Big = HEX("477863"),
+        Boss = HEX("a13a28"),
+        won = HEX("4f6367")
+    }
+
     local darkmode_mod = SMODS.findModByID("BalatroDarkMode")
     local dark_enhancer = SMODS.Sprite:new("centers", darkmode_mod.path, "DarkEnhancers.png", 71, 95, "asset_atli")
     local deck_standard = SMODS.Sprite:new("cards_1", darkmode_mod.path, "DarkDeck.png", 71, 95, "asset_atli")
@@ -40,6 +48,5 @@ function SMODS.INIT.Colors()
     ui_standard:register()
     dark_balatro:register()
 end
-
 ----------------------------------------------
 ------------MOD CODE END----------------------
