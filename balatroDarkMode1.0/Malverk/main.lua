@@ -20,7 +20,7 @@ AltTexture({ -- Dark Tags
     set = 'Tag',
     path = 'darkTags.png',
     loc_txt = {
-        name = 'Darrk Tags'
+        name = 'Dark Tags'
     }
 })
 AltTexture({ -- Dark Decks
@@ -36,7 +36,7 @@ AltTexture({ -- Dark Seals
     set = 'Seal',
     path = 'darkEnhancers.png',
     loc_txt = {
-        name = 'Dark Decks'
+        name = 'Dark Seals'
     }
 })
 AltTexture({ -- Dark Vouchers
@@ -44,7 +44,7 @@ AltTexture({ -- Dark Vouchers
     set = 'Voucher',
     path = 'darkVouchers.png',
     loc_txt = {
-        name = 'Dark Decks'
+        name = 'Dark Vouchers'
     }
 })
 AltTexture({ -- Dark Boosters
@@ -52,7 +52,7 @@ AltTexture({ -- Dark Boosters
     set = 'Booster',
     path = 'darkBoosters.png',
     loc_txt = {
-        name = 'Dark Decks'
+        name = 'Dark Boosters'
     }
 })
 AltTexture({ -- Dark Enhancements
@@ -60,10 +60,10 @@ AltTexture({ -- Dark Enhancements
     set = 'Enhanced',
     path = 'darkEnhancers.png',
     loc_txt = {
-        name = 'Dark Decks'
+        name = 'Dark Enhancements'
     }
 })
-AltTexture({ -- Dark Enhancements
+AltTexture({ -- Dark Tarots
     key = 'dark_tarot',
     set = 'Tarot',
     path = 'darkTarots.png',
@@ -71,21 +71,21 @@ AltTexture({ -- Dark Enhancements
         name = 'Dark Tarots'
     }
 })
-AltTexture({ -- Dark Enhancements
+AltTexture({ -- Dark Planets
     key = 'dark_planet',
     set = 'Planet',
     path = 'darkTarots.png',
     loc_txt = {
-        name = 'Dark Tarots'
+        name = 'Dark Planets'
     }
 })
-AltTexture({ -- Dark Enhancements
+AltTexture({ -- Dark Spectral
     key = 'dark_spectral',
     set = 'Spectral',
     path = 'darkTarots.png',
     soul = 'darkEnhancers.png',
     loc_txt = {
-        name = 'Dark Tarots'
+        name = 'Dark Spectral'
     }
 })
 AltTexture({ -- Dark Base Cards
