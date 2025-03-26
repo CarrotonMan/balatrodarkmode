@@ -33,6 +33,6 @@ To use Balatro Dark Mode, you need to have [Malverk](https://github.com/Eremel/M
 
 # Download
 
-Download the pack from the [[https://github.com/CarrotonMan/balatrodarkmode/releases|Releases]] page and unzip it. Then place the **balatroDarkMode** folder into your **mods** folder in Balatro. 
+Download the pack from the [Releases](https://github.com/CarrotonMan/balatrodarkmode/releases) page and unzip the file. Then place the **balatroDarkMode** folder into your **mods** folder in Balatro. 
 
 ![planet](https://github.com/user-attachments/assets/76ab4090-3665-4fec-9dbb-8c6dbbcf4ef7)
