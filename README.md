@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6f71ad69-2890-4655-9060-6e56c5d9cf3d" />
-</p>
 <h1 align="center">Balatro Dark Mode</h1>
 
 <h3 align="center">A dark mode texture pack for Balatro</h3>
