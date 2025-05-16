@@ -22,6 +22,13 @@ function SMODS.INIT.Colors()
         Spades = HEX("4f31b9"),
         Clubs = HEX("28aa1a"),
     }
+    
+    G.C.SO_2 ={
+        Hearts = HEX('f20000'),
+        Diamonds = HEX('cb0b83'),
+        Spades = HEX("4f31b9"),
+        Clubs = HEX("28aa1a"),
+    }
 
     G.C.BACKGROUND = {
         L = {1,1,0,0},
